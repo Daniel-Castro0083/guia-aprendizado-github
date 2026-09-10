@@ -49,7 +49,7 @@ Conteúdo do guia
 
 Apresentação dos conceitos de programação, lógica de programação e linguagem C.
 
-"Acessar Introdução" (docs/01-introducao.md)
+[Acessar Introdução](docs/01-introducao.md)
 
 2. Conceitos fundamentais
 
@@ -62,19 +62,19 @@ Estudo dos principais elementos utilizados nos primeiros programas em C:
 - Estruturas condicionais;
 - Estruturas de repetição.
 
-"Acessar Conceitos" (docs/02-conceitos.md)
+[Acessar Conceitos](docs/02-conceitos.md)
 
 3. Exercícios
 
 Atividades práticas para testar os conhecimentos adquiridos ao longo do guia.
 
-"Acessar Exercícios" (docs/03-exercicios.md)
+[Acessar Exercícios](docs/03-exercicios.md)
 
 4. Referências
 
 Materiais utilizados como apoio durante a elaboração do guia.
 
-"Acessar Referências" (docs/04-referencias.md)
+[Acessar Referências](docs/04-referencias.md)
 
 ---
 
@@ -113,7 +113,7 @@ Aprender programação exige prática. Algumas recomendações importantes são:
 
 ---
 
-gDesafio final
+Desafio final
 
 Depois de estudar o conteúdo deste guia, tente desenvolver um programa em C que:
 
@@ -154,7 +154,6 @@ Durante o desenvolvimento deste projeto, foram utilizados conceitos de Git e Git
 - Commits;
 - Branches;
 - Versionamento;
-- Pull Requests;
 - Merge;
 - Resolução de conflitos;
 - Organização do histórico de alterações.
@@ -165,9 +164,9 @@ O objetivo é demonstrar não apenas o conteúdo produzido, mas também o proces
 
 Materiais adicionais
 
-- "Aprendizados do projeto" (aprendizados.md)
-- "Registro de conflito resolvido" (conflito-resolvido.md)
-- "Referências utilizadas" (docs/04-referencias.md)
+- [Aprendizados do projeto](aprendizados.md)
+- [Registro de conflito resolvido](conflito-resolvido.md)
+- [Referências utilizadas](docs/04-referencias.md)
 
 ---
 
