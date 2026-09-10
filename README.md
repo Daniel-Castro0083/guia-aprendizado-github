@@ -169,6 +169,13 @@ Materiais adicionais
 - [Referências utilizadas](docs/04-referencias.md)
 
 ---
+Licenciamento
+
+Este projeto utiliza a licença MIT para permitir o compartilhamento e a reutilização do código e dos exemplos apresentados.
+
+Consulte o arquivo [LICENSE](LICENSE) para conhecer os termos completos da licença.
+
+---
 
 Considerações finais
 
