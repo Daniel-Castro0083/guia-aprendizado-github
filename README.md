@@ -2,7 +2,7 @@ Introdução à Lógica de Programação em C para Iniciantes
 
 Sobre o projeto
 
-Este projeto apresenta um guia de aprendizagem introdutório sobre lógica de programação utilizando a linguagem C, desenvolvido para pessoas que estão dando os primeiros passos na programação.
+Este guia apresenta uma introdução prática ao Git e ao GitHub para organização de projetos.
 
 O material foi organizado de forma progressiva, começando pelos conceitos fundamentais e avançando para exercícios práticos.
 
